@@ -1,0 +1,76 @@
+.App {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.builder-container {
+    margin: 20px;
+}
+
+.burger {
+    width: 300px;
+    margin: 0 auto;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.top-bread,
+.base-bread {
+    background-color: #f5a623;
+    height: 50px;
+    border-radius: 25px;
+    margin: 5px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.tomato {
+    background-color: #d63031;
+    height: 30px;
+    border-radius: 10px;
+    margin: 5px 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.meat {
+    background-color: #6e2c00;
+    height: 40px;
+    border-radius: 10px;
+    margin: 5px 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lettuce {
+    background-color: #27ae60;
+    height: 25px;
+    border-radius: 10px;
+    margin: 5px 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+.controls button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.instruction {
+    font-size: 12px;
+    color: #555;
+}   
